@@ -1,0 +1,23 @@
+{
+  "source_file": "1778244646230.jpg",
+  "extracted_at": "2026-05-09T22:53:47",
+  "resolution": [
+    640,
+    480
+  ],
+  "T_min_C": 19.388,
+  "T_max_C": 21.897,
+  "nan_ratio": 0.0,
+  "extraction": "ExifTool + Planck equation (FLIR ONE Pro 전용)",
+  "PlanckR1": 17682.449,
+  "PlanckR2": 0.0125,
+  "PlanckB": 1435,
+  "PlanckF": 1,
+  "PlanckO": -2448,
+  "Emissivity": 0.95,
+  "ReflectedApparentTemperature": "22.0 C",
+  "AtmosphericTemperature": "20.0 C",
+  "RelativeHumidity": "50.0 %",
+  "ObjectDistance": "1.00 m",
+  "DateTimeOriginal": "2026:05:08 20:40:45.201+09:00"
+}

@@ -1,0 +1,23 @@
+{
+  "n_total": 2,
+  "n_success": 1,
+  "n_failed": 0,
+  "n_skipped": 1,
+  "input_dir": "C:\\Users\\양유진\\OneDrive\\바탕 화면\\SOC_results\\flir_input",
+  "output_dir": "C:\\Users\\양유진\\OneDrive\\바탕 화면\\SOC_results\\csv",
+  "results": [
+    {
+      "file": "1778244646230",
+      "status": "ok",
+      "resolution": [
+        640,
+        480
+      ],
+      "nan_ratio": 0.0,
+      "T_range": [
+        19.388378776561638,
+        21.89660617848159
+      ]
+    }
+  ]
+}
